@@ -1,7 +1,6 @@
 # Riders-Prediction-Analysis--Competition
 
-## Description
-Meet the winners of the Sendy Logisitics Challenge
+## Description/Instructions
 
 Logistics in Sub-Saharan Africa increases the cost of manufactured goods by up to 320%; while in Europe, it only accounts for up to 90% of the manufacturing cost.
 
@@ -15,7 +14,7 @@ Sendy helps men and women behind every type of business to trade easily, deliver
 “We believe in them; we believe that logistics should be an enabler for them to achieve their goals, rather than a hindrance. We believe that everyone should be able to participate and thrive in the economy and that no small business should be left out because the cost of logistics is either too high or inaccessible.”
 Data is a critical component in helping Sendy to build more efficient, affordable and accessible solutions. Given the details of a Sendy order, can we use historic data to predict an accurate time for the arrival of the rider at the destination of a package? In this competition, we’re challenging you to build a model that predicts an accurate delivery time, from picking up a package to arriving at the final destination. An accurate arrival time prediction will help all businesses to improve their logistics and communicate an accurate time to their customers.
 
-This competition is being hosted by Sendy and insight2impact.
+This competition was hosted by Sendy and insight2impact.
 
 ## Datasets and packages
 
